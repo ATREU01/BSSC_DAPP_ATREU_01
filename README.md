@@ -23,4 +23,4 @@ VITE_EXPECTED_EVM_CHAIN_ID=16979
 - `npm run build` — production build
 - `npm run preview` — preview dist
 
-License: MIT
+License: ATR3U
